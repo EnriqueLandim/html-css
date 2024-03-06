@@ -21,7 +21,7 @@ header > h1 {
     text-align: center;
 }
 
-span#burguer {
+span#burger {
     background-color: rgb(48, 48, 48);
     display: block;
     color: white;
@@ -30,7 +30,7 @@ span#burguer {
     cursor: pointer;
 }
 
-span#burguer:hover {
+span#burger:hover {
     transition: 0.3s;
     background-color: white;
     color: black;
